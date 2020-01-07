@@ -1,0 +1,5 @@
+.vs\
+build\
+mobilenet_ssd\
+packages\
+x64\
